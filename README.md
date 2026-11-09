@@ -61,7 +61,7 @@ Open `ab_test_data_quality_review.ipynb` in Jupyter Notebook or JupyterLab and r
 
 ## Data
 
-The analysis uses `logs_exp_us.csv` (tab-separated event log: `event_name`, `user_id`, `timestamp`, `exp_id`), provided on the TripleTen learning platform and read from its `/datasets/` path. **The dataset is not included in this repository**, so the notebook will not run without it — the code and outputs are preserved as delivered.
+The analysis uses `logs_exp_us.csv` (tab-separated event log: `event_name`, `user_id`, `timestamp`, `exp_id`), included in this repository. The notebook originally read it from TripleTen's `/datasets/` path — point that path to the included file to run it.
 
 ## Notes
 
